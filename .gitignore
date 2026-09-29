@@ -1,0 +1,15 @@
+# Training cache (regenerable, large)
+figures/cache.npz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
